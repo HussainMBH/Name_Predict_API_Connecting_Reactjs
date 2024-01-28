@@ -72,7 +72,7 @@ function App() {
              
              </ul>
         </div>
-        {/*Card body end */}
+        {/*Card body end **/}
       </div>
     </div>
   );
