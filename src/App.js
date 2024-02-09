@@ -38,9 +38,9 @@ function App() {
           <button className="btn btn-outline-light my-2 my-sm-0" type="submit">Predict</button>
       </form>
     </nav>
-    {/*Header End */}
+    {/*Header  End */}
   
-  {/*User Image */}
+  {/*User  Image */}
   <img 
   src="https://w7.pngwing.com/pngs/184/113/png-transparent-user-profile-computer-icons-profile-heroes-black-silhouette-thumbnail.png" 
   className="card-img-top w-50 mx-auto  p-2" alt="User profile" />
